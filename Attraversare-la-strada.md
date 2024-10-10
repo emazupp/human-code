@@ -12,10 +12,10 @@ Semafori, rotonde e precedenze… al test per la patente, la domanda sugli incro
 
 - FINCHE' la mia posizione NON è uguale alla posizione di un elemento nella lista delle strisce pedonali
 
-  - SE NON avvisto nei dintorni della mia posizione delle strisce pedonali
-    faccio 10 metri avanti
-  - ALTRIMENTI
+  - SE avvisto nei dintorni della mia posizione delle strisce pedonali
     mi posiziono sopra le strisce avvistate
+  - ALTRIMENTI
+    faccio 10 metri avanti
 
 - FINCHE' NON ho attraversato la strada
   - SE nella strada NON ci sono macchine a destra AND nella strada NON ci sono macchine a sinistra
